@@ -37,6 +37,13 @@ Provides detailed profitability analysis including margins, cost breakdowns, and
 
 ---
 
+## 💾 Dataset Information
+
+The data used in this project is sourced from the widely recognized public enterprise dataset on Kaggle
+- **Link** - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+---
+
 ## 📸 Dashboard Previews
 
 All screenshots are available in the `screenshots/` folder.
